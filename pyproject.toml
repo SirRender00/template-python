@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "NAME"
+name = "template-python"
 version = "0.1.0"
 authors = [
   { name="Firstname Lastname", email="firstname.lastname@email.com" },
