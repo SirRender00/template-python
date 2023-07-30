@@ -28,7 +28,7 @@ jobs:
       run: pip install ".[dev]"
     - name: Generate Coverage Report
       run: |
-        python -m coverage run --source=template-python/ -m pytest
+        python -m coverage run --source=template_python/ -m pytest
         python -m coverage xml
     - name: Upload Coverage to Codecov
       uses: codecov/codecov-action@v3

@@ -28,10 +28,10 @@ jobs:
       run: pip install ".[dev]"
     - name: Analysing the code with pylint
       run: |
-        python -m pylint --fail-under 0.95 template-python/ tests/
+        python -m pylint --fail-under 0.95 template_python/ tests/
     - name: Analysing the code with black
       run: |
-        python -m black --check template-python/ tests/
+        python -m black --check template_python/ tests/
     - name: Ensuring docs can compile
       run: |
         python -m sphinx -T -E -b html -d _build/doctrees -D language=en docs docs/out/html
