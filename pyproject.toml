@@ -122,6 +122,8 @@ disable = '''long-suffix,
         missing-class-docstring,
         missing-function-docstring,
         W,
+        no-else-raise,
+        no-else-return
 '''
 
 # Enable the message, report, category or checker with the given id(s). You can
