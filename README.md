@@ -1,6 +1,6 @@
 # template-python
 ![Pytest Status](https://github.com/SirRender00/template-python/actions/workflows/pytest.yml/badge.svg)
-[![codecov](https://codecov.io/github/SirRender00/template-python/branch/main/graph/badge.svg?token=1PH1NHTGXP)](https://codecov.io/github/SirRender00/texasholdem)
+[![codecov](https://codecov.io/github/SirRender00/template-python/branch/main/graph/badge.svg?token=1PH1NHTGXP)](https://codecov.io/github/SirRender00/template-python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SirRender00/template-python/main/LICENSE)
 [![Documentation Status](https://readthedocs.org/projects/template-python/badge/?version=stable)](https://template-python.readthedocs.io/en/stable/?badge=stable)
 ![Pylint Status](https://github.com/SirRender00/template-python/actions/workflows/pylint.yml/badge.svg)
