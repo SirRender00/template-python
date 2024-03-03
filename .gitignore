@@ -1,5 +1,7 @@
 # local docs
-docs/_build
+docs/_build/
+docs/out/
+_build/
 
 # Misc
 .DS_Store
